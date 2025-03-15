@@ -76,7 +76,7 @@ streamlit run main.py
 
 ---
 
-## 📷 DEMO
+## 📷 DEMO (Wait few seconds for loading....)
 
 ![Resume Analyzer UI](https://your-screenshot-url.png)  
 
