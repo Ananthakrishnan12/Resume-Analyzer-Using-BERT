@@ -78,7 +78,7 @@ streamlit run main.py
 
 ## 📷 DEMO (Wait few seconds for loading....)
 
-![Resume Analyzer UI](https://your-screenshot-url.png)  
+![Resume Analyzer UI](https://github.com/Ananthakrishnan12/Resume-Analyzer-Using-BERT/blob/main/cv-praser.gif)  
 
 ---
 
