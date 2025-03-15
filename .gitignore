@@ -1,0 +1,69 @@
+# Ignore Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+CV_parser/
+
+# Ignore Python Bytecode Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Logs and Output Files
+*.log
+*.out
+
+# Ignore System Files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and Editor Settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore Environment Variables and Secrets
+.env
+*.env
+config.json
+
+# Ignore Databases
+*.sqlite3
+*.db
+
+# Ignore Compiled Files
+*.so
+*.dll
+*.exe
+
+# Ignore Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignore TensorFlow/PyTorch Model Files
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.pb
+
+# Ignore Tokenizer and Encoders
+tokenizer.joblib
+label_encoder.joblib
+
+# Ignore Cached & Temp Files
+*.cache
+__pycache__/
+*.pickle
+*.pkl
+*.txt
+
+# Ignore Machine Learning Model Files
+*.h5
+*.joblib
+*.pkl
+*.pickle
+
+# Ignore JSON files
+*.json
